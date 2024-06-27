@@ -1,0 +1,20 @@
+export const string_key = {
+  rememberMeCredentialEnable: 'remember_me_enabale',
+  rememberMeCredentialDisable: 'remember_me_disable',
+
+  loginScreenHeader: 'W E L C O M E',
+  loginScreenTitle: `Please enter your email and password.`,
+  placeholderEmailAndPhone: 'Your email',
+  password: 'Password',
+  confirmPassword: 'Confirm Password',
+  rememberMe: 'Remember me',
+  noUserAccount: 'Don’t have an account?',
+  alreadyHaveAccount: 'Already have an account.',
+  signUp: 'Sign Up',
+  login: 'Login',
+  register: 'Register',
+  loginWelcomeMessage: "to access your account.",
+  signUpWelcomeMessage: "by creating a Free Account",
+  getStarted: "Get Started",
+  signIn: "Sign in",
+};

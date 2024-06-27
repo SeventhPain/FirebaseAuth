@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097924681249",
+    "project_id": "authcode-d50ae",
+    "storage_bucket": "authcode-d50ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097924681249:android:6b1dcc01d74da99b3d0d60",
+        "android_client_info": {
+          "package_name": "com.auth.mm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdD57O0hDEM2C5_6I8-6IhaA_lkizYsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
